@@ -36,6 +36,7 @@
     label.text=[NSString stringWithFormat:@"%d",number];
 }
 -(IBAction)mainasu{
+   
     number=number-1;
     label.text=[NSString stringWithFormat:@"%d",number];
 }
